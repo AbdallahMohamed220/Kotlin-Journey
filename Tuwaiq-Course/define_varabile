@@ -1,0 +1,14 @@
+to define variable in kotlin you can use : 
+
+
+val -- if the value will not change like final
+
+var -- if the value will change
+
+
+Ex : 
+
+val radius = 14.3
+
+var name = "Ali"
+
